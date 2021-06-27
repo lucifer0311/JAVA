@@ -38,9 +38,5 @@ public class CWH_27_arrays {
             System.out.println(element);
         }
 
-
-
-
-
     }
 }
